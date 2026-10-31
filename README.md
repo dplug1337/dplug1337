@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vasil
+# 👋 Hi, I'm Dplug1337
 
 I'm an **Information Technology student** from Bulgaria, currently building projects across **web development, game development, and software engineering**.
 
